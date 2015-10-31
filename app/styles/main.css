@@ -81,3 +81,15 @@ body {
     border-bottom: 0;
   }
 }
+h1 {
+  font-size: 55px;
+}
+.todo-container {
+  height:500px;
+  padding-bottom: 25px;
+}
+.items {
+  padding-top: 20px; 
+  cursor: move;
+   margin-bottom: 0;
+}
