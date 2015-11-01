@@ -25,4 +25,8 @@ angular.module('yotodoApp')
     $scope.removeToDo = function(index){
       $scope.todos.splice(index,1);
     };
+    // $scope.editTodo = function(index) {
+    //   var i = $scope.todos.indexOf(index);
+    //   $scope.todos[i] = $scope.todo
+    // }
   });
